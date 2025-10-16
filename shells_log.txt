@@ -1,0 +1,500 @@
+   18  make all
+   19  bump_test
+   20  make all
+   21  bump_test
+   22  make all
+   23  bump_test
+   24  make all
+   25  bump_test
+   26  python3 driver.py -w1
+   27  make all
+   28  python3 driver.py -w1
+   29  make all
+   30  bump_test
+   31  make all
+   32  bump_test
+   33  make all
+   34  bump_test
+   35  make all
+   36  make all
+   37  bump_test
+   38  make all
+   39  bump_test
+   40  make all
+   41  make all
+   42  bump_test
+   43  make all
+   44  bump_test
+   45  make all
+   46  bump_test
+   47  make all
+   48  make all
+   49  bump_test
+   50  make all
+   51  bump_test
+   52  make all
+   53  bump_test
+   54  make all
+   55  bump_test
+   56  make all
+   57  bump_test
+   58  make all
+   59  bump_test
+   60  make all
+   61  bump_test
+   62  make all
+   63  make all
+   64  bump_test
+   65  make all
+   66  bump_test
+   67  make all
+   68  bump_test
+   69  make all
+   70  make all
+   71  make all
+   72  make all
+   73  bump_test
+   74  make all
+   75  bump_test
+   76  make all
+   77  bump_test
+   78  make all
+   79  python3 driver.py -w1
+   80  git add .
+   81  git commit -m "latest changes"
+   82  git push
+   83  python3 driver.py -w1
+   84  bump_test
+   85  make all
+   86  make all
+   87  bump_test
+   88  make all
+   89  bump_test
+   90  make clean
+   91  make debug
+   92  gdb ./bump_test
+   93  make all
+   94  bump_test
+   95  make clean
+   96  make debug
+   97  gdp ./bump_test
+   98  gdb ./bump_test
+   99  make clean
+  100  make all
+  101  bump_test
+  102  make clean
+  103  make debug
+  104  gdb ./bump_test
+  105  make clean
+  106  make all
+  107  bump_test
+  108  make all
+  109  bump_test
+  110  python3 driver.py -w1
+  111  make all
+  112  bump_test
+  113  make all
+  114  bump_test
+  115  make all
+  116  make all
+  117  bump_test
+  118  python3 driver.py -w1
+  119  bump_test\
+  120  python3 driver.py -w1
+  121  make all
+  122  python3 driver.py -w1
+  123  make all
+  124  make all
+  125  python3 driver.py -w1
+  126  bump_test
+  127  python3 driver.py
+  128  python3 drvier.py -w1
+  129  make all
+  130  python3 driver.py -w1
+  131  make all
+  132  python3 driver.py -w1
+  133  python3 driver.py -w1
+  134  make all
+  135  python3 driver.py -w1
+  136  make all
+  137  runner
+  138  ./bump_test
+  139  make all
+  140  ./bump_test
+  141  make all
+  142  ./bump_test
+  143  make all
+  144  ./bump_test
+  145  make all
+  146  ./bump_test
+  147  python3 driver.py -w1
+  148  git add .
+  149  git commit -m "100%"
+  150  git push
+  151  make all
+  152  python3 driver.py -w1
+  153  python3 driver.py
+  154  make all
+  155  python3 driver.py -w1
+  156  git add .
+  157  git commit -m "cleaned up version of %100"
+  158  git push
+  159  make all
+  160  python3 driver.py
+  161  make all
+  162  python3 driver.py
+  163  make all
+  164  make all
+  165  python3 driver.py
+  166  make all
+  167  python3 driver.py -w1
+  168  python3 driver.py 
+  169  make all
+  170  python3 driver.py
+  171  make all
+  172  python3 driver.py
+  173  make all
+  174  python3 driver.py
+  175  make all
+  176  make all
+  177  make all
+  178  python3 driver.py -w1
+  179  make all
+  180  python3 driver.py -w1
+  181  make all
+  182  make all
+  183  python3 driver.py -w1
+  184  python3 driver.py
+  185  make all
+  186  python3 driver.py -w1
+  187  make all
+  188  python3 driver.py -w1
+  189  make all
+  190  python3 driver.py -w1
+  191  python3 driver.py
+  192  make all
+  193  make all
+  194  python3 driver.py -w1
+  195  python3 driver.py -w1
+  196  python3 driver.py
+  197  python3 driver.py
+  198  make all
+  199  make all
+  200  python3 driver.py
+  201  git add .
+  202  git commit -m "increased the utilization average"
+  203  git push
+  204  make all
+  205  python3 driver.py
+  206  git commit -m "increased utilization a little bit"
+  207  git push
+  208  git add .
+  209  git commit -m "increased utilization a little bit"
+  210  git push
+  211  make all
+  212  python3 driver.py
+  213  make all
+  214  make all
+  215  python3 driver.py
+  216  make all
+  217  python3 driver.py
+  218  make all
+  219  python3 driver.py
+  220  make all
+  221  python3 driver.py
+  222  make all
+  223  python3 driver.py
+  224  make all
+  225  python3 driver.py
+  226  make all
+  227  python3 driver.py
+  228  make all
+  229  python3 driver.py
+  230  whoami
+  231  clear
+  232  touch ~/.gdbinit
+  233  echo "set history save on" > ~/.gdbinit
+  234  cat ~/.gdbinit
+  235  ssh-keygen -t ed25519
+  236  cat /u/blcomer/.ssh/id_ed25519
+  237  cat /u/blcomer/.ssh/id_ed25519.pub
+  238  cd ..
+  239  mkdir masteryA
+  240  pwd
+  241  cd /u/blcomer/
+  242  pwd
+  243  mkdir masteryA
+  244  ls
+  245  cd masteryA
+  246  git clone git@github.com:brcomer/masteryA.git
+  247  make
+  248  make all
+  249  make mini_ci
+  250  make tests
+  251  make check
+  252  clear
+  253  make
+  254  make
+  255  make
+  256  pwd
+  257  ls
+  258  cd masteryA
+  259  ls
+  260  make
+  261  tests
+  262  tests mini_ci
+  263  mini_ci tests
+  264  mini_ci check
+  265  clear
+  266  ./mini_ci
+  267  ./mini_ci '/u/blcomer/masteryA/masteryA/testcases/basic_add.s'
+  268  make check
+  269  make clean
+  270  make debug
+  271  gdb mini_ci
+  272  mini_ci_reference '/u/blcomer/masteryA/masteryA/testcases/err_ops.s'
+  273  mini_ci '/u/blcomer/masteryA/masteryA/testcases/err_ops.s'
+  274  make clean
+  275  make
+  276  make 
+  277  mini_ci '/u/blcomer/masteryA/masteryA/testcases/err_ops.s'
+  278  make clean
+  279  make debug
+  280  gdb mini_ci
+  281  make
+  282  mini_ci '/u/blcomer/masteryA/masteryA/testcases/err_ops.s'
+  283  mini_ci check
+  284  make check
+  285  mini_ci '/u/blcomer/masteryA/masteryA/testcases/err_ops2.s'
+  286  mini_ci_reference '/u/blcomer/masteryA/masteryA/testcases/err_ops2.s'
+  287  make clean
+  288  make debug
+  289  gdb mini_ci
+  290  make
+  291  mini_ci '/u/blcomer/masteryA/masteryA/testcases/err_ops2.s'
+  292  make check
+  293  mini_ci '/u/blcomer/masteryA/masteryA/testcases/basic_add.s'
+  294  mini_ci_reference '/u/blcomer/masteryA/masteryA/testcases/basic_add.s'
+  295  make clean
+  296  make debug
+  297  gdb mini_ci
+  298  make
+  299  make check
+  300  make
+  301  make check
+  302  make
+  303  make check
+  304  make
+  305  make check
+  306  make
+  307  make check
+  308  make
+  309  make check
+  310  make
+  311  make check
+  312  make
+  313  make check
+  314  make
+  315  make check
+  316  make
+  317  make check
+  318  make
+  319  make check
+  320  make
+  321  make check
+  322  make
+  323  make check
+  324  make
+  325  make check
+  326  make
+  327  make check
+  328  make
+  329  make debug
+  330  make clean
+  331  make debug
+  332  gdb mini_ci
+  333  make
+  334  mini_ci '/u/blcomer/masteryA/masteryA/testcases/err_ops.s'
+  335  make clean
+  336  make
+  337  make check
+  338  make clean
+  339  make gdb
+  340  make debug
+  341  gdb mini_ci
+  342  make clean
+  343  meak
+  344  make
+  345  make check
+  346  make clean
+  347  make debug
+  348  gdb mini_ci
+  349  make clean
+  350  make
+  351  make clean
+  352  make debug
+  353  gdb mini_ci
+  354  make clean
+  355  make
+  356  make check
+  357  make clean
+  358  make debug
+  359  gdb mini_ci
+  360  make clean
+  361  make
+  362  make check
+  363  make clean
+  364  make debug
+  365  gdb mini_ci
+  366  make
+  367  make check
+  368  touch ~/log file
+  369  history
+  370  history > file
+  371  gdb
+  372  git add .
+  373  git commit -m "finished"
+  374  git push
+  375  git log
+  376  rm -rf masteryA
+  377  pwd
+  378  ls
+  379  logout
+  380  ~/.gdbinit
+  381  touch ~/.gdbinit
+  382  ls
+  383  ls .
+  384  ls -a
+  385  echo "set history save on" > ~/.gdbinit
+  386  cat ~/.gdbinit
+  387  git clone git@github.com:brcomer/masteryB.git
+  388  pwd
+  389  ls
+  390  cd masteryB
+  391  pwd
+  392  logout
+  393  make
+  394  mini_ci
+  395  make check
+  396  make clean
+  397  make debug
+  398  gdb mini_ci
+  399  make
+  400  make check
+  401  make clean
+  402  make debug
+  403  gdb mini_ci
+  404  make
+  405  mini_ci '/u/blcomer/masteryB/outputs/basic_add.s.out'
+  406  make
+  407  mini_ci '/u/blcomer/masteryB/outputs/basic_add.s.out'
+  408  make
+  409  mini_ci '/u/blcomer/masteryB/outputs/basic_add.s.out'
+  410  make clean
+  411  make debug
+  412  mini_ci '/u/blcomer/masteryB/testcases/multi_op_err2.s'
+  413  mini_ci_reference '/u/blcomer/masteryB/testcases/multi_op_err2.s'
+  414  gdb mini_ci
+  415  make
+  416  make check
+  417  mini_ci '/u/blcomer/masteryB/testcases/multi_op3.s'
+  418  mini_ci_reference
+  419  mini_ci_reference '/u/blcomer/masteryB/testcases/multi_op3.s'
+  420  make clean
+  421  make debug
+  422  gdb mini_ci
+  423  make
+  424  make check
+  425  make clean
+  426  make debug
+  427  gdb mini_ci
+  428  make
+  429  make debug
+  430  make clean
+  431  make debug
+  432  gdb mini_ci
+  433  make
+  434  make check
+  435  make
+  436  make check
+  437  make
+  438  make check
+  439  touch shell_logs.txt
+  440  history > shell_logs.txt
+  441  touch gdb_logs.txt
+  442  gdb
+  443  git add .
+  444  git commit -m "finished"
+  445  git push
+  446  rm -rf masteryB
+  447  touch ~/.gdbinit
+  448  ls -a
+  449  echo "set history save on" > ~/.gdbinit
+  450  cat ~/.gdbinit
+  451  git clone https://github.com/brcomer/masteryC.git
+  452  make
+  453  make check
+  454  mini_ci '/u/blcomer/masteryC/testcases/basic_add.s'
+  455  mini_ci_reference '/u/blcomer/masteryC/testcases/basic_add.s'
+  456  make clean
+  457  make debug
+  458  gdb mini_ci
+  459  make
+  460  make debug
+  461  make clena
+  462  make clean
+  463  make debug
+  464  gdb mini_ci
+  465  make\
+  466  make
+  467  make clean
+  468  make debug
+  469  gdb mini_ci
+  470  make
+  471  make clean
+  472  make debug
+  473  gdb mini_ci
+  474  y
+  475  make
+  476  make clean
+  477  make debug
+  478  gdb mini_ci
+  479  y
+  480  make
+  481  make debug
+  482  make clean
+  483  make debug
+  484  gdb mini_ci
+  485  make
+  486  make clean
+  487  make debug
+  488  gdb mini_ci
+  489  make check
+  490  touch shell_logs.txt
+  491  history > shell_logs.txt
+  492  gdb
+  493  touch gdb_logs.txt
+  494  gdb
+  495  gdb mini_ci
+  496  git add .
+  497  git commit -m "finished"
+  498  git push
+  499  rm -rf masteryC
+  500  git clone https://github.com/brcomer/masteryD.git
+  501  touch ~/.gdbinit
+  502  ls -a
+  503  ls
+  504  echo "set history save on" > ~/.gdbinit
+  505  cat ~/.gdbinit
+  506  make
+  507  make check
+  508  mini_ci '/u/blcomer/masteryD/testcases/basic_add.s'
+  509  mini_ci_reference '/u/blcomer/masteryD/testcases/basic_add.s'
+  510  make clean
+  511  make debug
+  512  gdb '/u/blcomer/masteryD/testcases/basic_add.s'
+  513  gdb mini_ci
+  514  make
+  515  make check
+  516  touch shells_log.txt
+  517  history > shells_log.txt

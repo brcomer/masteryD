@@ -1,0 +1,6 @@
+    1  q
+    2  run '/u/blcomer/masteryD/testcases/basic_add.s'
+    3  bt
+    4  q
+    5  q
+    6  show commands
